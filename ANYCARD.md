@@ -1,6 +1,6 @@
 #ANY CARD LAYOUT
 
-Use SwipeableCard with any layout!!!
+Use `SwipeableCard` with any layout!!!
 
 You just add to your layout a `CardView` and than use:
 
